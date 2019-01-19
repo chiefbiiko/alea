@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
 Original work Copyright (C) 2010 by Johannes Baagøe <baagoe@baagoe.org>
-Modified work Copyright (c) 2018 Noah Anabiik Schwarz
+Modified work Copyright (c) 2019 Noah Anabiik Schwarz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
